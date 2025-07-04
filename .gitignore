@@ -3,3 +3,4 @@ certs
 config
 services
 node_modules
+templates
